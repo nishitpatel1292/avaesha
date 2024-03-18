@@ -148,17 +148,13 @@ export default function EduviCoursesDetailsPage() {
             <div className="flex flex-col items-center justify-start w-[66%] md:w-full gap-6">
               <div className="flex flex-col items-start justify-start w-full gap-2">
                 <Heading size="xl" as="h2">
-                  Course Details
+                 Expert details
                 </Heading>
                 <Text as="p" className="leading-[30px]">
                   <>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
-                    accumsan lacus vel facilisis consectetur adipiscing elit.
+                  Mr. Arun is a retired Journalist, who has retired recently. He has a plethora of experiences which he wants to share with the world. With this intent, he has designed a 2 week online course for the aspirant journalists, to get practical insights about the field.
                     <br />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
-                    accumsan lacus vel facilisis consectetur adipiscing elit.
+                   Join the exceptional 2 weeks course to extend your horizons of skills.
                   </>
                 </Text>
               </div>
@@ -177,9 +173,7 @@ export default function EduviCoursesDetailsPage() {
                   Who this course is for
                 </Heading>
                 <Text as="p" className="leading-[30px]">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                  lacus vel facilisis consectetur adipiscing elit.
+                  For aspiring journalists, who want to pursue their career in journalism. Also, having strong determination and hunger to learn from the best.
                 </Text>
               </div>
               <div className="flex flex-col items-start justify-start w-full pt-0.5">
